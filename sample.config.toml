@@ -1,0 +1,8 @@
+[main]
+backup_host="local"
+local_tarball_prefix="home"
+output_directory="/media/backups/msoulier"
+keep=3
+remote_paths="/home/msoulier"
+admin_email="msoulier@digitaltorque.ca"
+pre_backup=""
